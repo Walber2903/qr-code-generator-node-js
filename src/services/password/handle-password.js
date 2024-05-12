@@ -14,7 +14,6 @@ async function handlePassword() {
   }
 
   return password;
-
 }
 
 export default handlePassword;
