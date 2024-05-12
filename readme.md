@@ -24,3 +24,7 @@ Before entering this content, it is necessary to have prior knowledge in the fol
 After completing the course/project, students will be able to:
 
 - Create nodejs projects that generate multiple dependencies
+
+## 📈 Schema
+
+![schemma image](docs/schema.png)
