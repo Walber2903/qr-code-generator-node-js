@@ -1,0 +1,18 @@
+{
+  "name": "qr-code-generator-node",
+  "version": "1.0.0",
+  "description": "Utility kit for an e-commerce.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node --env-file=.env --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Walber Menezes",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "prompt": "^1.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
